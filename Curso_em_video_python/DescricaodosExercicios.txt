@@ -1,0 +1,37 @@
+Curso de Python: O curso aborda os fundamentos da linguagem python, utilzando de alguns recusos como bibliotecas math, datetime, time, random, pygame
+
+Exercício 01 – Deixando tudo pronto
+Exercício 02 – Respondendo ao Usuário
+Exercício 03 – Somando dois números
+Exercício 04 – Dissecando uma Variável
+Exercício 05 – Antecessor e Sucessor
+Exercício 06 – Dobro, Triplo, Raiz Quadrada
+Exercício 07 – Média Aritmética
+Exercício 08 – Conversor de Medidas
+Exercício 09 – Tabuada
+Exercício 10 – Conversor de Moedas
+Exercício 11 – Pintando Parede
+Exercício 12 – Calculando Descontos
+Exercício 13 – Reajuste Salarial
+Exercício 14 – Conversor de Temperaturas
+Exercício 15 – Aluguel de Carros
+Exercício 16 – Quebrando um número (com o uso da biblioteca "math import floor")
+Exercício 17 – Catetos e Hipotenusa (com o uso da biblioteca "math import hypot")
+Exercício 18 – Seno, Cosseno e Tangente ( com o uso da biblioteca "math import sin, cos, tan, radians")
+Exercício 19 – Sorteando um item na lista (com o uso da biblioteca "random import choice")
+Exercício 20 – Sorteando uma ordem na lista (com o uso da biblioteca "random import shuffle")
+Exercício 21 – Tocando um MP3 (com o uso da biblioteca "pygame import mixer')
+Exercício 22 – Analisador de Textos
+Exercício 23 – Separando dígitos de um número
+Exercício 24 – Verificando as primeiras letras de um texto
+Exercício 25 – Procurando uma string dentro de outra
+Exercício 26 – Primeira e última ocorrência de uma string
+Exercício 27 – Primeiro e último nome de uma pessoa
+Exercício 28 – Jogo da Adivinhação v.1.0 (com uso da bilbioteca' random import choice, randint", "time import sleep")
+Exercício 29 – Radar eletrônico
+Exercício 30 – Par ou Ímpar?
+Exercício 31 – Custo da Viagem
+Exercício 32 – Ano Bissexto (com o uso da bibiloteca "datetime import date")
+Exercício 33 – Maior e menor valores
+Exercício 34 – Aumentos múltiplos
+Exercício 35 – Analisando Triângulo v1.0
